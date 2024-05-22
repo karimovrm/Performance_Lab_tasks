@@ -1,0 +1,2 @@
+Author  Karimov Rustam
+Language  Python
